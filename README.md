@@ -16,10 +16,10 @@ A simulation environment for Unified Circuit specifications.
 
 This project is part of the Haystack synthesis engine.
 
-Licensed by Cornell University under GNU GPL v3.
+Licensed by Ned Bingham under GNU GPL v3.
 
 Written by Ned Bingham.
-Copyright © 2020 Cornell University.
+Copyright © 2020 Ned Bingham.
 
 Haystack is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
