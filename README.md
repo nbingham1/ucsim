@@ -1,10 +1,10 @@
 # ucsim
-A simulation environment for Unified Circuit specifications.
+A simulation environment for unified circuit specifications.
 
 **Usage**: `ucsim [options] file...`
 
 **Supported file formats**:
- - `*.ucs`           Load an HSE
+ - `*.ucs`           Load a unified circuit specification.
 
 **General Options**:
  - `-h`,`--help`      Display this information
